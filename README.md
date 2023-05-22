@@ -9,7 +9,6 @@
 
 Credit card fraud detection using different classifiers (RF, SVM, Naive Bayes, Logistic Regression, ...) on KNIME platform.
 
-Check out and Download the Complete Workflow on Knime HUB: https://kni.me/w/c2_iSRBcc1v7b6pU
 
 In the financial field, one of the most important aspects is the detection of fraudulent transactions on credit cards. 
 From an economic point of view, it is essential for financial institutions to be able to detect these transactions in advance. 
